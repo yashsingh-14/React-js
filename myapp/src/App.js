@@ -1,3 +1,5 @@
+
+
 // import { Component } from "react"
 
 // export function Avenger(){
@@ -11,14 +13,18 @@
 //     }
 // }
 
-import{ Avenger, Footer, Header, AvengerClass } from "./shield";
+// composing element...............
 
-export function ShieldPass() {
-    return <>
-    <Header/>
-    <Avenger fname='Steve' lname='Roger' />
-    <Avenger fname='Tony' lname='Stark' />
-    <AvengerClass fname='Bruce' lname='Banner' />
-    <Footer/>
-    </>
-}
+// import{ Avenger, Footer, Header, AvengerClass } from "./shield";
+
+// export function ShieldPass() {
+//     return <>
+//     <Header/>
+//     <Avenger fname='Steve' lname='Roger' />
+//     <Avenger fname='Tony' lname='Stark' />
+//     <AvengerClass fname='Bruce' lname='Banner' />
+//     <Footer/>
+//     </>
+// }
+
+//

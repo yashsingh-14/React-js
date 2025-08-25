@@ -1,7 +1,11 @@
-import {WELCOME} from "./shield"; 
+// import {WELCOME} from "./shield"; 
+import { Counter } from "./Counter";
 
 export function Shieldpass(){
     return<>
-    <WELCOME name= 'Tony'/>
-    </>
+    {/* <WELCOME name= 'Tony'/> */}
+
+    <Counter/>
+        </>
+
 }
